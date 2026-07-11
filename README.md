@@ -1,4 +1,4 @@
-## Hi, I'm Şule Yılmaz
+# Hi, I'm Şule Yılmaz
 
 Software Engineering student focused on iOS development with Swift, SwiftUI, UIKit, ARKit, CoreML, and AI-powered mobile apps.
 
