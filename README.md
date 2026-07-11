@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Şule Yılmaz
 
-<!--
-**sulesyy/sulesyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focused on iOS development with Swift, SwiftUI, UIKit, ARKit, CoreML, and AI-powered mobile apps.
 
-Here are some ideas to get you started:
+## What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- iOS apps with Swift, SwiftUI, and UIKit
+- AR experiences with ARKit and SceneKit
+- ML-powered apps with CoreML and Vision
+- API-connected apps using URLSession, Codable, and async data flows
+- Full-stack practice projects with Spring Boot and React
+
+## Featured Projects
+
+- [Notes AI](https://github.com/sulesyy/NoteSummarizer) - SwiftUI text summarizer with OCR, PDF import, text-to-speech, local history, and AI API integration
+- [MagicPaper](https://github.com/sulesyy/ARVideoOverlay) - ARKit image tracking app that overlays video on detected real-world images
+- [AR Ruler](https://github.com/sulesyy/AR-Ruler) - ARKit measurement app using SceneKit and 3D vector math
+- [FoodIQ](https://github.com/sulesyy/FoodIQ) - CoreML and Vision image classification app
+- [H4X0R News iOS](https://github.com/sulesyy/H4X0R-News-iOS) - SwiftUI Hacker News client using URLSession, Codable, and WebView
+
+## Currently Improving
+
+- Clean SwiftUI architecture
+- API key and configuration safety
+- MVVM and testable iOS code
+- App Store-quality UI polish
+- Portfolio-ready documentation
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/şule-yılmaz-060311361
