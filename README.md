@@ -12,6 +12,7 @@ Software Engineering student focused on iOS development with Swift, SwiftUI, UIK
 
 ## Featured Projects
 
+- [StudyFlowAI](https://github.com/sulesyy/StudyFlowAI) - SwiftUI study planner with course and exam tracking, AI-generated summaries, quizzes, flashcards, and PDF study tools
 - [Notes AI](https://github.com/sulesyy/NoteSummarizer) - SwiftUI text summarizer with OCR, PDF import, text-to-speech, local history, and AI API integration
 - [MagicPaper](https://github.com/sulesyy/ARVideoOverlay) - ARKit image tracking app that overlays video on detected real-world images
 - [AR Ruler](https://github.com/sulesyy/AR-Ruler) - ARKit measurement app using SceneKit and 3D vector math
