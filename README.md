@@ -29,4 +29,4 @@ Software Engineering student focused on iOS development with Swift, SwiftUI, UIK
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/şule-yılmaz-060311361
+- LinkedIn: https://www.linkedin.com/in/sule-yilmaz22/
